@@ -2,4 +2,3 @@ this is file one
 this is a new file
 this is a extra file one
 this is a extra file two
-delete
