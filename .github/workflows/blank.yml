@@ -25,8 +25,7 @@ jobs:
       
       -name: Run a one-line script
        run: echo Hello,world!
-      -name: java version
-       run : java -version
+      -name: java versionon
       -name: maven version
        run: mvn --version
       -name: python version
@@ -34,5 +33,4 @@ jobs:
       -name: docker version
        run: docker -v
       -name: terraform version
-       run: terraform version
-      
+       run: terraform versio
